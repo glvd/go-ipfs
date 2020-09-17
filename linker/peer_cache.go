@@ -3,7 +3,7 @@ package linker
 import (
 	"context"
 	"fmt"
-	"github.com/ipfs/go-ipfs/plugin/plugins/linker/impl/config"
+	"github.com/ipfs/go-ipfs/linker/config"
 	"sync"
 
 	core "github.com/ipfs/go-ipfs/core"

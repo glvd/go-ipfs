@@ -5,7 +5,7 @@ import (
 	"context"
 	"errors"
 	"fmt"
-	"github.com/ipfs/go-ipfs/plugin/plugins/linker/impl/config"
+	"github.com/ipfs/go-ipfs/linker/config"
 	"sync"
 	"time"
 
